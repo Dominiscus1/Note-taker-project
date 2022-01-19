@@ -7,7 +7,6 @@
   - [Preview](#Preview)
   - [Contributors](#Contributors)
   - [License](#License)
-  - [Questions](#Questions)
   ## Description
   Allows users to create notes that will be saved in local storage so they will reload when revisiting the page.
   
