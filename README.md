@@ -21,12 +21,11 @@
   node, express, uuid, html, javascript
 
   ## Preview
-  N/A
+  ![Img](images/note-taker.png)
 
   ## Contributors
   Anthony Jimenez
 
   ## License
-  [![License Badge]()]()
-  </br>
   This application uses No license. 
+  </br>
